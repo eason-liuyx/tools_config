@@ -1,2 +1,3 @@
-# hello-world
-the first one code on GitHub
+# Tools Configuration
+
+Configuration for different tools are recorded, such as vim, git, etc.
