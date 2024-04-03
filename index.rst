@@ -1,4 +1,4 @@
-Welcome to eason's tool_config!
+Welcome to eason's tool_conf!
 =====================================
 
 
